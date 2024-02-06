@@ -1,0 +1,4 @@
+	$(function(){
+		editor("textarea.contents");
+		
+	});	

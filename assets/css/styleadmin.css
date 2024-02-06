@@ -1,0 +1,329 @@
+*{ font-family: 'Open Sans',Arial,sans-serif;}
+fieldset {
+    border: 1px solid #F6F6F6;
+    border-radius: 3px 3px 3px 3px;
+    margin: 5px 0 0;
+    padding: 1px 5px 5px;
+    width: auto;
+}
+fieldset legend{
+    border-radius: 3px 3px 3px 3px;
+    color: #666666;
+    font-size: 12px;
+    padding: 2px;
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: none;
+    border-image: none;
+    border-style: none;
+    border-width: none;
+    display: inline;
+    line-height: 12px;
+    margin-bottom: 0px;
+    width: auto;
+}
+textarea{
+	width:auto;
+	height:auto;
+}
+input[type="image"], input[type="checkbox"], input[type="radio"]{
+	display:inline;
+}
+.window-mask {
+    background: none repeat scroll 0 0 #000000;
+	opacity:0.3;
+}
+.classtag{
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #FAFAFA;
+    border: 1px solid #EAEAEA;
+    float: left;
+    margin: 2px;
+    padding: 0px 5px;
+}
+.classtag .tag-close{
+	background: url("../jeasyui/themes/bootstrap/images/tabs_icons.png") no-repeat scroll -34px center transparent;
+    display: block;
+    float: left;
+    height: 19px;
+    opacity: 0.6;
+    right: 5px;
+    width: 12px;
+}
+.classtag .tag-close:hover{
+	opacity: 1;
+}
+.header {
+  background-color: #fafafa;
+  background: -webkit-linear-gradient(top,#ffffff 0,#fafafa 100%);
+  background: -moz-linear-gradient(top,#ffffff 0,#fafafa 100%);
+  background: -o-linear-gradient(top,#ffffff 0,#fafafa 100%);
+  background: linear-gradient(to bottom,#ffffff 0,#fafafa 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#fafafa,GradientType=0);
+}
+.header-title{
+	margin:0px;
+	line-height:40px;
+	background: url("../img/label/dashboard.png") no-repeat scroll 0px 5px transparent;
+	padding-left:40px;
+	margin-left:20px;
+}
+.datagrid-header-row .datagrid-cell{
+	font-weight:bold;
+	text-align:center;
+	color:#555555;
+	text-shadow: 1px 1px 0 #FFFFFF;
+}
+
+form#main_form table td.td-label{ 
+    border: 1px solid #E9E9E9;
+	background-color: #F6F6F6;
+	text-align:right;
+	vertical-align: middle;
+	font-weight: bold;
+	max-width: 150px;
+}
+form#main_form table td.td-input{
+	position: relative;
+	vertical-align: middle;
+}
+h2{
+	font-size: 20px;
+}
+label{
+	display:inline;
+}
+#menubar .tree-node{
+    background: url("../img/navItemBg.png") repeat 0 -1px transparent;
+    height: 25px;
+    padding-top: 12px;
+	border-bottom: 1px solid #29A2F9;
+    box-shadow: 0 1px 0 #0569A7 inset;
+}
+#menubar .tree-node:hover, #menubar .tree-node:active{
+    background-position: 0 -43px;
+	border-bottom: 1px solid #0E3972;
+	box-shadow: inset 0px 1px 0px 0E3972;
+}
+#menubar .tree-node-selected,#menubar .tree-node-selected:hover{
+	background-position: 0 -86px;
+    border-bottom: 1px solid #0E3972;
+}
+#menubar .tree-node .tree-title{
+	font-weight: bold;
+	color: #E5E5E5;
+	margin-left:8px;
+    text-shadow: 1px 1px 1px #0569A7;
+}
+.tree-folder {
+    background: url("../img/light/files.png") no-repeat scroll center center transparent;
+}
+.tree-folder-open {
+    background: url("../img/light/folder.png") no-repeat scroll center center transparent;
+}
+.tree-file {
+    background: url("../img/light/doc.png") no-repeat scroll center center transparent;
+}
+ul#menubar > li > ul > li div.tree-node{
+	background:none;
+	background-color:#4B8EB7;
+    box-shadow: none;
+	border:none;
+    height: 25px;
+    padding-top: 10px;
+}
+ul#menubar > li > ul > li div.tree-node  .tree-title{
+	font-weight: normal;
+	color: #E5E5E5;
+	margin-left:8px;
+	font-size:11px;
+    text-shadow: 1px 1px 1px #0569A7;
+}
+ul#menubar > li > ul > li div.tree-node:hover, ul#menubar > li > ul > li div.tree-node:active, ul#menubar > li > ul > li div.tree-node-selected{
+	background-color:#0563A7;
+    box-shadow: none;
+	border:none;
+}
+ul#menubar .headermenubar, ul#menubar .headermenubar:hover{
+	background-position: 0 -86px;
+    border-bottom: 1px solid #0563A7;
+}
+.toolbar{
+	float:right;
+	margin-top:-50px;
+	height:50px;
+	position:absolute;
+	right:10px;
+}
+.toolbar li{
+	float:right;
+	list-style:none;
+}
+.datagrid-row-alt{
+	  background: -webkit-linear-gradient(top,#ffffff 0,#fafafa 100%);
+	  background: -moz-linear-gradient(top,#ffffff 0,#fafafa 100%);
+	  background: -o-linear-gradient(top,#ffffff 0,#fafafa 100%);
+	  background: linear-gradient(to bottom,#ffffff 0,#fafafa 100%);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#fafafa,GradientType=0);
+}
+.datagrid-row-over{
+	  background: -webkit-linear-gradient(top,#E2F0FE 0,#BFDEFD 100%);
+	  background: -moz-linear-gradient(top,#E2F0FE 0,#BFDEFD 100%);
+	  background: -o-linear-gradient(top,#E2F0FE 0,#BFDEFD 100%);
+	  background: linear-gradient(to bottom,#E2F0FE 0,#BFDEFD 100%);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#E2F0FE,GradientType=0);
+	color:#000000;
+}
+.datagrid-header td, .datagrid-body td, .datagrid-footer td {
+    border-style: solid;
+}
+.datagrid-header td, .datagrid-body td, .datagrid-footer td {
+    border-color: #eeeeee;
+}
+.datagrid-row-selected {
+	  background: -webkit-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: -moz-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: -o-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: linear-gradient(to bottom,#079AEF 0,#0286D5 100%);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#079AEF,endColorstr=#0286D5,GradientType=0);
+	color: #fff;
+}
+.accountmenu .l-btn-text{
+	min-width:160px;
+}
+.accountmenu .m-btn-downarrow{
+	float:right;
+}
+#accountmenu div span.icon-menu{
+	width:16px;
+	position:absolute;
+	margin:6px;
+	height:16px;
+	line-height:16px;
+}
+#accountmenu div span.profile{
+	background:url('../img/light/user.png') no-repeat scroll left center transparent;
+}
+#accountmenu div span.changepassword{
+	background:url('../img/light/key.png') no-repeat scroll left center transparent;
+}
+#accountmenu div span.logout{
+	background:url('../img/light/close.png') no-repeat scroll left center transparent;
+}
+#accountmenu div a{
+	font-size:14px;
+	font-weight:bold;
+	display:block;
+	padding:5px 7px;
+	padding-left:25px;
+	text-decoration:none;
+	text-shadow: 1px 1px 0 #FFFFFF;
+}
+#accountmenu div a:hover{  
+	  background: -webkit-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: -moz-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: -o-linear-gradient(top,#079AEF 0,#0286D5 100%);
+	  background: linear-gradient(to bottom,#079AEF 0,#0286D5 100%);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#079AEF,endColorstr=#0286D5,GradientType=0);
+	  color: #fff;
+	text-shadow: none;
+}
+.panel-title{
+	text-shadow: 1px 1px 0px #fff;
+	font-size:14px;
+}
+h1, h2, h3, h4, h5, h6, .tabs-title{
+	text-shadow: 1px 2px 0px #fff;
+}
+.label-header{
+	margin:0px;
+	line-height:40px;
+	padding-left:40px;
+	background: url("../img/label/window.png") no-repeat scroll 0px 9px transparent;
+}
+.toolbar li a.add{
+	background: url("../img/toolbar/add.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.edit{
+	background: url("../img/toolbar/edit.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.delete{
+	background: url("../img/toolbar/delete.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.close{
+	background: url("../img/toolbar/close.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.refresh{
+	background: url("../img/toolbar/refresh.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.save{
+	background: url("../img/toolbar/save.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.cancel{
+	background: url("../img/toolbar/cancel.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.excel{
+	background: url("../img/toolbar/excel.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.pdf{
+	background: url("../img/toolbar/pdf.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+.toolbar li a.print{
+	background: url("../img/toolbar/print.png") no-repeat scroll 4px 5px;
+    background-size: 18px auto;
+}
+
+.toolbar li a{
+	border: 1px solid #D4D4D4;
+	border-radius: 3px;    
+    display: block;
+    height: 28px;
+    line-height: 28px;
+    margin: 16px 3px;
+    min-width: 28px;
+	padding: 0 5px 0 28px;
+    width: auto;
+    font-size: 12px;
+    opacity: 1;
+    color: #0088cc;
+	font-weight:bold;
+	text-decoration:none;
+}
+.toolbar li a:hover,.window{    
+    outline: 0 none;
+    color: #005580;
+    opacity: 1;
+	text-decoration:none;
+}
+
+table.tb-jawaban p{
+	padding: 0px;
+	margin: 0px;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+.form-control {
+    display: inline;
+}

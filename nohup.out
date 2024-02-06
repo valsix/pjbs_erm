@@ -1,0 +1,12 @@
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi1576726308Evidence_SKI_2019.zip: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi157672643514__BAPP_MOD_VENDOR.pdf: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi157672647914__BAPP_MOD_VENDOR_II_.pdf: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi15767268244__NODIN_-_M027250_CANCEL.doc: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi15767275472__Program_pelatihan_Quality_Control_dan_Quality_Assurance_Proyek.zip: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi15767279961__Competency_Acceleration_untuk_Eksekutor_dengan_Job_Shadowing_dan_COP_(Community_of_Practice)_dan_SKF_(Sharing_Knowledge_Forum).zip: no such file or directory"
+time="2019-12-20T07:18:47+07:00" level=error msg="Tar: Can't stat file /mnt/erm/app to tar: lstat /mnt/erm/app/uploads/mitigasi1576732348Buku_Saku.zip: no such file or directory"
+Sending build context to Docker daemon  12.01GB
+Step 1/10 : FROM admindockerpjbs/php7-oci8-ldap-soap:erick
+ ---> ec1921e049fe
+Step 2/10 : COPY /mnt/erm/app/application /var/www/html/application
+COPY failed: stat /var/lib/docker/tmp/docker-builder034941206/mnt/erm/app/application: no such file or directory

@@ -1,0 +1,1017 @@
+220 smtp.gmail.com ESMTP q82sm5656833pfl.28 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q82sm5656833pfl.28 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:32:37 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59290f75c3e9d@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 smtp.gmail.com ESMTP c29sm5286558pfj.101 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c29sm5286558pfj.101 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:34:03 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59290fcb0665d@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 smtp.gmail.com ESMTP p4sm6885345pgf.21 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p4sm6885345pgf.21 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:34:27 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59290fe36e6ec@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 smtp.gmail.com ESMTP m8sm4885275pga.34 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m8sm4885275pga.34 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:35:03 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59291007a067f@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 smtp.gmail.com ESMTP r69sm5615740pfi.33 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r69sm5615740pfi.33 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:35:33 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592910258148c@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 mx.google.com ESMTP m61si23426496plb.316 - gsmtp
+<br /><pre>hello: 250-mx.google.com at your service, [112.215.173.103]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>from: 250 2.1.0 OK m61si23426496plb.316 - gsmtp
+</pre><pre>to: 250 2.1.5 OK m61si23426496plb.316 - gsmtp
+</pre><pre>to: 250 2.1.5 OK, duplicate recipients will be consolidated. m61si23426496plb.316 - gsmtp
+</pre><pre>data: 354  Go ahead m61si23426496plb.316 - gsmtp
+</pre><br /><pre>quit: </pre>SMTP mengalami galat berikut ini: <br />SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:37:56 +0700
+From: &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?UTF-8?Q?test?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592910b437030@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+testingting
+</pre>
+220 smtp.googlemail.com ESMTP p13sm5930776pfl.52 - gsmtp
+<br /><pre>hello: 250-smtp.googlemail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p13sm5930776pfl.52 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:40:03 +0700
+From: &lt;&gt;
+Return-Path: &lt;&gt;
+Reply-To: &lt;&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59291133b47d7&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_59291133b481d&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_59291133b481d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_59291133b481d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_59291133b481d--</pre>
+220 smtp.googlemail.com ESMTP q194sm4769385pfq.56 - gsmtp
+<br /><pre>hello: 250-smtp.googlemail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q194sm4769385pfq.56 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:40:43 +0700
+From: &lt;&gt;
+Return-Path: &lt;&gt;
+Reply-To: &lt;&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5929115b0374b&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929115b0379d&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929115b0379d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929115b0379d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929115b0379d--</pre>
+220 smtp.googlemail.com ESMTP n24sm5128858pfb.14 - gsmtp
+<br /><pre>hello: 250-smtp.googlemail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n24sm5128858pfb.14 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:44:13 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5929122d47c67@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929122d47ce1&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929122d47ce1
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929122d47ce1
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929122d47ce1--</pre>
+SMTP mengalami galat berikut ini: 110 Connection timed out<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:46:39 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592912bf132fc@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592912bf13360&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592912bf13360
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592912bf13360
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592912bf13360--</pre>
+220 smtp.gmail.com ESMTP v45sm5730735pgn.56 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v45sm5730735pgn.56 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:47:28 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592912f02cda8@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592912f02ce19&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592912f02ce19
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592912f02ce19
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592912f02ce19--</pre>
+220 smtp.gmail.com ESMTP 3sm4853782pfp.11 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.173.103]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 3sm4853782pfp.11 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:50:05 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5929138db3836@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929138db387e&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929138db387e
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929138db387e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929138db387e--</pre>
+220 smtp.gmail.com ESMTP f24sm5216704pfk.66 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.153.195]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f24sm5216704pfk.66 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 12:59:41 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592915cdd1cf7@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592915cdd1d5d&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592915cdd1d5d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592915cdd1d5d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592915cdd1d5d--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:03:01 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [112.215.173.103]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre>Gagal mengotentikasi kata sandi. Error: 535 Incorrect authentication data
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:03:01 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592916956f923@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592916956f99f&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592916956f99f
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592916956f99f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592916956f99f--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:03:20 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [112.215.173.103]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>from: 250 OK
+</pre><pre>to: 250 Accepted
+</pre><pre>to: 250 Accepted
+</pre><pre>data: 354 Enter message, ending with "." on a line by itself
+</pre><br /><pre>quit: 250 OK id=1dEUoq-00080e-Ry
+</pre>SMTP mengalami galat berikut ini: 250 OK id=1dEUoq-00080e-Ry
+<br />SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:03:20 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592916a85a7f0@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592916a85a867&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592916a85a867
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592916a85a867
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592916a85a867--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:06:10 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [112.215.173.103]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre><pre>starttls: 503 STARTTLS command used when not advertised
+</pre>SMTP mengalami galat berikut ini: 503 STARTTLS command used when not advertised
+<br />SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:06:09 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592917516930b@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929175169366&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929175169366
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929175169366
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929175169366--</pre>
+<br /><pre>hello: </pre>SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim data: STARTTLS
+<br /><pre>starttls: </pre>SMTP mengalami galat berikut ini: <br />SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:06:44 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;59291774d5624@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_59291774d5692&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_59291774d5692
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_59291774d5692
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_59291774d5692--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:10:22 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: </pre>SMTP mengalami galat berikut ini: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:10:22 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5929184e504d3@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929184e5052d&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929184e5052d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929184e5052d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929184e5052d--</pre>
+220 smtp.gmail.com ESMTP v64sm5384699pfk.86 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.153.195]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v64sm5384699pfk.86 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:11:42 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5929189e828d5@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5929189e8293d&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5929189e8293d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_5929189e8293d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_5929189e8293d--</pre>
+220 smtp.gmail.com ESMTP r73sm4768677pfk.114 - gsmtp
+<br /><pre>hello: 250-smtp.gmail.com at your service, [112.215.153.195]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Gagal mengotentikasi kata sandi. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r73sm4768677pfk.114 - gsmtp
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:12:03 +0700
+From: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;Information&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592918b399d25@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592918b399d96&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592918b399d96
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592918b399d96
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592918b399d96--</pre>
+<br /><pre>hello: 220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:47:04 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+</pre>SMTP mengalami galat berikut ini: 220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sat, 27 May 2017 02:47:04 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Sat, 27 May 2017 13:46:56 +0700
+From: &quot;ERM NOTIFICATION&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=74=65=73=74?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;592920e0e1585@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_592920e0e163f&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_592920e0e163f
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+testingting
+
+
+--B_ALT_592920e0e163f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+testingting
+
+--B_ALT_592920e0e163f--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sun, 11 Jun 2017 20:03:09 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [36.37.90.197]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre>Gagal mengotentikasi kata sandi. Error: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 12 Jun 2017 07:03:08 +0700
+From: &quot;ERM NOTIFICATION&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=5B=72=69=73=69=6B=6F=20=6B=65=63=65=6C=61=6B=61=61=6E=20?= =?ISO-8859-1?Q?=6B=65=72=6A=61=5D=52=69=73=69=6B=6F=20=74=65=72=6B=61=69?= =?ISO-8859-1?Q?=74=20=64=65=6E=67=61=6E=20=42=69=64=61=6E=67=2F=44=69=72?= =?ISO-8859-1?Q?=65=6B=74=6F=72=61=74=20=41=6E=64=61?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;593dda3cbaff0@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_593dda3cbb041&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_593dda3cbb041
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Salam
+
+risiko kecelakaan kerja
+Risiko terkait dengan Bidang/Direktorat Anda
+Selengkapnya
+
+
+--B_ALT_593dda3cbb041
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Salam
+			=3Cbr/=3E
+			=3Cbr/=3E
+			=3Cb=3Erisiko kecelakaan kerja=3C/b=3E=3Cbr/=3E
+			=3Ci=3ERisiko terkait dengan Bidang/Direktorat Anda=3C/i=3E
+			=3Cbr/=3E=3Ca href=3D'http://localhost/ketonggo=5Fproject/pjbs=5Ferm/pan=
+elbackend/risk=5Frisiko/detail/180/115'=3ESelengkapnya=3C/a=3E
+
+--B_ALT_593dda3cbb041--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Sun, 11 Jun 2017 20:03:37 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [36.37.90.197]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre>Gagal mengotentikasi kata sandi. Error: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Mon, 12 Jun 2017 07:03:36 +0700
+From: &quot;ERM NOTIFICATION&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=5B=72=69=73=69=6B=6F=20=6B=65=63=65=6C=61=6B=61=61=6E=20?= =?ISO-8859-1?Q?=6B=65=72=6A=61=5D=52=69=73=69=6B=6F=20=74=65=72=6B=61=69?= =?ISO-8859-1?Q?=74=20=64=65=6E=67=61=6E=20=42=69=64=61=6E=67=2F=44=69=72?= =?ISO-8859-1?Q?=65=6B=74=6F=72=61=74=20=41=6E=64=61?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;593dda588be17@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_593dda588be79&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_593dda588be79
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Salam
+
+risiko kecelakaan kerja
+Risiko terkait dengan Bidang/Direktorat Anda
+Selengkapnya
+
+
+--B_ALT_593dda588be79
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Salam
+			=3Cbr/=3E
+			=3Cbr/=3E
+			=3Cb=3Erisiko kecelakaan kerja=3C/b=3E=3Cbr/=3E
+			=3Ci=3ERisiko terkait dengan Bidang/Direktorat Anda=3C/i=3E
+			=3Cbr/=3E=3Ca href=3D'http://localhost/ketonggo=5Fproject/pjbs=5Ferm/pan=
+elbackend/risk=5Frisiko/detail/180/115'=3ESelengkapnya=3C/a=3E
+
+--B_ALT_593dda588be79--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Thu, 15 Jun 2017 20:35:47 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [112.215.243.191]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre>Gagal mengotentikasi kata sandi. Error: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Fri, 16 Jun 2017 07:35:47 +0700
+From: &quot;ERM NOTIFICATION&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=5B=72=69=73=69=6B=6F=20=6B=65=63=65=6C=61=6B=61=61=6E=20?= =?ISO-8859-1?Q?=6B=65=72=6A=61=5D=52=69=73=69=6B=6F=20=74=65=72=6B=61=69?= =?ISO-8859-1?Q?=74=20=64=65=6E=67=61=6E=20=42=69=64=61=6E=67=2F=44=69=72?= =?ISO-8859-1?Q?=65=6B=74=6F=72=61=74=20=41=6E=64=61?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;594327e3783a7@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_594327e378418&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_594327e378418
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Salam
+
+risiko kecelakaan kerja
+Risiko terkait dengan Bidang/Direktorat Anda
+Selengkapnya
+
+
+--B_ALT_594327e378418
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Salam
+			=3Cbr/=3E
+			=3Cbr/=3E
+			=3Cb=3Erisiko kecelakaan kerja=3C/b=3E=3Cbr/=3E
+			=3Ci=3ERisiko terkait dengan Bidang/Direktorat Anda=3C/i=3E
+			=3Cbr/=3E=3Ca href=3D'http://localhost/ketonggo=5Fproject/pjbs=5Ferm/pan=
+elbackend/risk=5Frisiko/detail/180/115'=3ESelengkapnya=3C/a=3E
+
+--B_ALT_594327e378418--</pre>
+220-server42536x.maintenis.com ESMTP Exim 4.89 #1 Thu, 15 Jun 2017 20:35:55 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br /><pre>hello: 250-server42536x.maintenis.com Hello localhost [112.215.243.191]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250 HELP
+</pre>Gagal mengotentikasi kata sandi. Error: <br />Tidak dapat mengirim email dengan menggunakan PHP SMTP. Server anda mungkin tidak dikonfigurasi untuk mengirim email dengan menggunakan metode ini.<br /><pre>User-Agent: CodeIgniter
+Date: Fri, 16 Jun 2017 07:35:55 +0700
+From: &quot;ERM NOTIFICATION&quot; &lt;solikul.arip@gmail.com&gt;
+Return-Path: &lt;solikul.arip@gmail.com&gt;
+Reply-To: &quot;PJBS&quot; &lt;solikul.arip@gmail.com&gt;
+To: arips4@gmail.com
+Subject: =?ISO-8859-1?Q?=5B=72=69=73=69=6B=6F=20=6B=65=63=65=6C=61=6B=61=61=6E=20?= =?ISO-8859-1?Q?=6B=65=72=6A=61=5D=52=69=73=69=6B=6F=20=74=65=72=6B=61=69?= =?ISO-8859-1?Q?=74=20=64=65=6E=67=61=6E=20=42=69=64=61=6E=67=2F=44=69=72?= =?ISO-8859-1?Q?=65=6B=74=6F=72=61=74=20=41=6E=64=61?=
+X-Sender: solikul.arip@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;594327eb0fffa@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_594327eb10080&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_594327eb10080
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Salam
+
+risiko kecelakaan kerja
+Risiko terkait dengan Bidang/Direktorat Anda
+Selengkapnya
+
+
+--B_ALT_594327eb10080
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Salam
+			=3Cbr/=3E
+			=3Cbr/=3E
+			=3Cb=3Erisiko kecelakaan kerja=3C/b=3E=3Cbr/=3E
+			=3Ci=3ERisiko terkait dengan Bidang/Direktorat Anda=3C/i=3E
+			=3Cbr/=3E=3Ca href=3D'http://localhost/ketonggo=5Fproject/pjbs=5Ferm/pan=
+elbackend/risk=5Frisiko/detail/180/115'=3ESelengkapnya=3C/a=3E
+
+--B_ALT_594327eb10080--</pre>

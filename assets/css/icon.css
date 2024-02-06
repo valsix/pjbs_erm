@@ -1,0 +1,84 @@
+.icon-add {
+    background: url("../img/light/add.png") no-repeat scroll center center transparent;
+}
+.label-icon-add{
+	background: url("../img/label/add.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-cut{
+	background:url('../img/light/cut.png') no-repeat scroll center center transparent;
+}
+.label-icon-cut{
+	background: url("../img/label/cut.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-reload{
+	background:url('../img/light/refresh.png') no-repeat scroll center center transparent;
+}
+.label-icon-reload{
+	background: url("../img/label/refresh.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-print{
+	background:url('../img/light/printer.png') no-repeat scroll center center transparent;
+}
+.label-icon-print{
+	background: url("../img/label/printer.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-help{
+	background:url('../img/light/help.png') no-repeat scroll center center transparent;
+}
+.label-icon-help{
+	background: url("../img/label/help.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-photos{
+	background:url('../img/light/photos.png') no-repeat scroll center center transparent;
+}
+.label-icon-photos{
+	background: url("../img/label/photo_scenery.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-user{
+	background:url('../img/light/user.png') no-repeat scroll center center transparent;
+}
+.label-icon-user{
+	background: url("../img/label/user.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-pencil{
+	background:url('../img/light/pencil.png') no-repeat scroll center center transparent;
+}
+.label-icon-pencil{
+	background: url("../img/label/pencil.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-setting{
+	background:url('../img/light/settings.png') no-repeat scroll center center transparent;
+}
+/* .label-icon-setting{
+	background: url("../img/label/dashboard.png") no-repeat scroll 0px 6px transparent;
+} */
+.icon-list{
+	background:url('../img/light/list.png') no-repeat scroll center center transparent;
+}
+/* .label-icon-list{
+	background: url("../img/label/dashboard.png") no-repeat scroll 0px 6px transparent;
+} */
+.icon-graph{
+	background:url('../img/light/graph.png') no-repeat scroll center center transparent;
+}
+.label-icon-graph{
+	background: url("../img/label/dashboard.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-home{
+	background:url('../img/light/home.png') no-repeat scroll center center transparent;
+}
+.label-icon-home{
+	background: url("../img/label/home.png") no-repeat scroll 0px 6px transparent;
+}
+.icon-shuffle{
+	background:url('../img/light/shuffle.png') no-repeat scroll center center transparent;
+}
+/* .label-icon-shuffle{
+	background: url("../img/label/dashboard.png") no-repeat scroll 0px 6px transparent;
+} */
+.icon-link{
+	background:url('../img/light/link.png') no-repeat scroll center center transparent;
+}
+.label-icon-link{
+	background: url("../img/label/link.png") no-repeat scroll 0px 6px transparent;
+}

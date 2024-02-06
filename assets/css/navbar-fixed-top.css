@@ -1,0 +1,14 @@
+body {
+  padding-top: 70px;
+}
+
+table.table-form>tbody>tr>td{
+	border-top:none;
+	border-bottom: 1px solid #f0f0f0;
+}
+td.td-label{
+	font-weight: bold;
+	text-align: right;
+	border-right: 1px solid #f0f0f0;
+	background-color: #f9f9f9;
+}

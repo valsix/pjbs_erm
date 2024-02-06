@@ -1,0 +1,191 @@
+html{
+        height: 100%;
+    background-image: url(../../img/BANNER-WEBSITE-TENAYAN.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+body {     padding-top: 65px;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+.info-box-flat-active.box-id-2 {
+  background: #db1a5d;
+}
+.info-box-flat-active.box-id-3 {
+  background: #fb9600;
+}
+#subbox-id-1, #subbox-id-2, #subbox-id-3 { color: #FFF; }
+.info-jumlah-active.subbox-id-2 {
+  background: #f863a2;
+  border-top: 1px solid #f863a2;
+}
+.info-jumlah-active.subbox-id-3 {
+  background: #fbae42;
+  border-top: 1px solid #fbae42;
+}
+/* .header.id_menu_active-3 h2 {
+    color: #034485;
+}
+.header.id_menu_active-4 h2 {
+    color: #db1a5d;
+}
+.header.id_menu_active-5 h2 {
+    color: #fb9600;
+} */
+.header.id_menu_active-3 h2, .header.id_menu_active-4 h2, .header.id_menu_active-5 h2, .text-white,
+.header.text-white h1 {
+  color: #FFF;
+}
+.dark-tooltip + .tooltip > .tooltip-inner {
+    background-color: #000c !important;
+    border: 1px solid #000c !important;
+}
+a.button6 {
+  display:inline-block;
+  padding:0.7em 1.4em;
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.15em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  text-transform:uppercase;
+  font-weight:400;
+  color:#FFFFFF;
+  background: linear-gradient(135deg,#ff7d1e 0,#cc0053 130%);
+  box-shadow: inset 0 -0.6em 0 -0.4em rgba(0, 0, 0, 0.2);
+  text-align:center;
+  position:relative;
+}
+a.button6:active{
+  top:0.1em;
+}
+@media all and (max-width:30em){
+a.button6{
+  display:block;
+  margin:0.4em auto;
+}
+}
+
+#filter {
+  background: #FFF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+span.label-total {    padding: .4em;
+    background: rgba(0,0,0,0.15);
+    border-radius: 50%;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.2), inset 0 1px 1px rgba(0,0,0,0.1);
+    font-size: 85%;
+    position: absolute;
+    top: -22px;
+}
+.bg-active-3 { background-color: #034485; }
+.bg-active-4 { background-color: #db1a5d; }
+.bg-active-5 { background-color: #fb9600; }
+
+tr#first-row td {
+  border: none;
+}
+.table thead {
+  border: solid 1px #FFF;
+}
+text > tspan {font-family: "Lato", sans-serif; font-size: 14px;}
+.amcharts-balloon-div > div{font-family: "Lato", sans-serif !important;}
+.modal-body ul > li {
+  font-weight: 500;
+}
+.disp-inline-block h2, .disp-inline-block span{
+  display: inline-block;
+}
+.fright {
+  float: right;
+}
+.w50 {width:50%;}
+
+.clearfix{
+  clear: both;
+}
+
+.card .pull-left{
+  width: auto;
+}
+
+.card .pull-right .nav-tabs{
+  margin: 0px;
+  margin-top: -7px;
+} 
+
+.card .pull-right .nav-tabs > li > a{
+  font-size: 12px;
+  padding: 7px 5px;
+} 
+
+.card .pull-right .nav-tabs > li > a .material-icons{
+  position: relative;
+  top: 0px;
+  margin-bottom: 0px;
+} 
+
+
+
+.lds-ellipsis {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.lds-ellipsis div {
+  position: absolute;
+  top: 27px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #fff;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.lds-ellipsis div:nth-child(1) {
+  left: 6px;
+  animation: lds-ellipsis1 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(2) {
+  left: 6px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(3) {
+  left: 26px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.lds-ellipsis div:nth-child(4) {
+  left: 45px;
+  animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(19px, 0);
+  }
+}
+
+
+/*.btn:hover, .btn:focus, .btn.focus {
+    color: #fff;
+    text-decoration: none;
+}*/
